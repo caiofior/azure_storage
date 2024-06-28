@@ -38,6 +38,6 @@ Example of sorage table access
 ```
 Example of file uploading
 
-(shared_key.jpeg)
+[![generate shared key](https://github.com/caiofior/azure_storage/blob/main/shared_key.jpeg)]
 
 How to generate a shared key
